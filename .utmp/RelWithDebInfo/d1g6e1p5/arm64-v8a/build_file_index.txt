@@ -1,0 +1,2 @@
+C:\Users\konne\Documents\GitHub\OnrampARFoundation\OnRamp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\konne\Documents\GitHub\OnrampARFoundation\OnRamp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
