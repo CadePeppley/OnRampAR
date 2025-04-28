@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/BeyondTheFrame.unity
+    guid: 7ed495ebb7af7455e824cf7dec94662e
+  - enabled: 1
     path: Assets/Scenes/SoundScapes.unity
     guid: 143b212c61173794ab58b6d4799bbebf
   m_configObjects:
