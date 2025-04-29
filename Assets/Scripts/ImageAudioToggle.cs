@@ -20,6 +20,7 @@ public class ImageAudioToggle : MonoBehaviour
     /// </summary>
     public void PlayAllAudio()
     {
+        Debug.Log("Playing audio!!!");
         foreach (GameObject obj in audioObjects)
         {
             if (obj != null)
