@@ -3,20 +3,20 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-    // Call this from your “Extend the frame” button
+    // Call this from your ï¿½Extend the frameï¿½ button
     public void LoadExtendFrame()
     {
         // Both Extend Frame and Animation Mode use MainScene
-        SceneManager.LoadScene("MainScene");
+        SceneManager.LoadScene("BeyondTheFrame");
     }
 
-    // Call this from your “Animation Mode” button
+    // Call this from your ï¿½Animation Modeï¿½ button
     public void LoadAnimationMode()
     {
         SceneManager.LoadScene("MainScene");
     }
 
-    // Call this from your “Sound Mode” button
+    // Call this from your ï¿½Sound Modeï¿½ button
     public void LoadSoundMode()
     {
         SceneManager.LoadScene("SoundScapes");
